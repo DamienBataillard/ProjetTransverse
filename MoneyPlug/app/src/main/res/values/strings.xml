@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">MoneyPlug</string>
+    
+    <!-- Page Customisé -->
+    <string name="name">THEMONEYPLUG</string>
+    <string name="slogan">The plug that save you money</string>
+
+    <!-- Page d'action -->
+    <string name="action_conso">Votre prise consomme</string>
+    <string name="action_unité_conso">Kw/H</string>
+    <string name="action_switch">Allumer la prise</string>
+    <string name="action_set">Programmer la prise</string>
+    <string-array name="action_set_hour_start">
+        <item>00h</item>
+        <item>01h</item>
+        <item>02h</item>
+        <item>03h</item>
+        <item>04h</item>
+        <item>05h</item>
+        <item>06h</item>
+        <item>07h</item>
+        <item>08h</item>
+        <item>09h</item>
+        <item>10h</item>
+        <item>11h</item>
+        <item>12h</item>
+        <item>13h</item>
+        <item>14h</item>
+        <item>15h</item>
+        <item>16h</item>
+        <item>17h</item>
+        <item>18h</item>
+        <item>19h</item>
+        <item>20h</item>
+        <item>21h</item>
+        <item>22h</item>
+        <item>23h</item>
+    </string-array>
+    <string-array name="action_set_hour_finish">
+        <item>00h</item>
+        <item>01h</item>
+        <item>02h</item>
+        <item>03h</item>
+        <item>04h</item>
+        <item>05h</item>
+        <item>06h</item>
+        <item>07h</item>
+        <item>08h</item>
+        <item>09h</item>
+        <item>10h</item>
+        <item>11h</item>
+        <item>12h</item>
+        <item>13h</item>
+        <item>14h</item>
+        <item>15h</item>
+        <item>16h</item>
+        <item>17h</item>
+        <item>18h</item>
+        <item>19h</item>
+        <item>20h</item>
+        <item>21h</item>
+        <item>22h</item>
+        <item>23h</item>
+    </string-array>
+    
+</resources>
